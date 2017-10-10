@@ -4,7 +4,6 @@ Python Script to download Instagram dp and images of a person
 
 Clone this Repo
 
-cd <repo>
 Open terminal and write python scraper.py
 
 Enter instagram handle of user
